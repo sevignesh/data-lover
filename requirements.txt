@@ -1,0 +1,2 @@
+pyspark==3.2.1
+great-expectations==0.17.12
